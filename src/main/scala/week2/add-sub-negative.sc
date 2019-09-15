@@ -40,7 +40,10 @@ class Rational1(x: Int, y: Int) {
 
   //neg() negates a rational
 
-  def neg(): Rational1 = new Rational1(-numer, denom)
+  def neg(): Rational1 = {
+    new Rational1(-numer, denom)
+
+  }
 
   override def toString: String = { //toString() is explictly called
     //like apply()

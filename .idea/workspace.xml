@@ -1,7 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="370ecde9-5717-4bcc-8116-8355bc143771" name="Default Changelist" comment="" />
+    <list default="true" id="370ecde9-5717-4bcc-8116-8355bc143771" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/scala/week3/Intset.sc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/week3/Union.sc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/week3/creatingList.sc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/week3/exception.sc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/week3/findingelement.sc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/week4/List.sc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/week4/Nat.sc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/week4/show.sc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/week5/encode.sc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/week5/implicit.sc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/week5/msort.sc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/week5/operations.sc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/week5/ordering.sc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/week5/pack.sc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/week5/removeAt.sc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/week5/squaremp.sc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/week5/squarepm.sc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/week6/Allcombo.sc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/week6/Map.sc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/week6/array.sc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/week6/dot.sc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/week6/fold.sc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/week6/forexpression.sc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/week6/operations.sc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/week6/range.sc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/week6/set.sc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/week6/test.sc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/week2/add-sub-negative.sc" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/week2/add-sub-negative.sc" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -158,7 +188,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
